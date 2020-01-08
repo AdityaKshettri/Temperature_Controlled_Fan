@@ -1,0 +1,2 @@
+# Temperature_Controlled_Fan
+The main aim of this project is to calculate and monitor the surrounding temperature and change the speed of the fan as temperature changes i.e. the speed should increase with a rise in temperature and should decrease with a drop in temperature. The temperature would be displayed through the LCD which is interfaced by the 8051 microcontroller. The FAN is controlled by a PWM wave given to it by the microcontroller, the power given to the fan is lesser in low temperature and greater in high temperature.
